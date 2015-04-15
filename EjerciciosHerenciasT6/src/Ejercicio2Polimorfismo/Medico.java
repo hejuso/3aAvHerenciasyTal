@@ -21,7 +21,7 @@ public class Medico {
 		datos = getNombre() + ", " + getApellido() + ", " + getEdad();
 
 		return datos;
-		
+
 	}
 
 	// GETTER AND SETTER

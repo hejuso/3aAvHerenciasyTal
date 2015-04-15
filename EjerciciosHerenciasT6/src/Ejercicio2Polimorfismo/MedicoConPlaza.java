@@ -7,7 +7,7 @@ public class MedicoConPlaza extends Medico {
 	public MedicoConPlaza(String nombre_, String apellido_, int edad_) {
 
 		super(nombre_, apellido_, edad_);
-
+		this.setId(edad_);
 	}
 
 	public String mostrarDatos() {
