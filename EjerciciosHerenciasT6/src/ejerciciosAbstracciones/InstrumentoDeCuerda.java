@@ -8,7 +8,7 @@ public class InstrumentoDeCuerda extends Instrumento{
 		// TODO Auto-generated constructor stub
 		
 		super(nombre_);
-		setNumeroCuerdas(numCuerd);
+		this.setNumeroCuerdas(numCuerd);
 		
 	}
 	
