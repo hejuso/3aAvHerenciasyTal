@@ -13,11 +13,10 @@ public class Autor {
 		this.setNombre(nombre_);
 		this.setInicioContrato(inicioContrato_);
 		this.setDni(dni_);
-		
 	}
 
-	//GETTER AND SETTER
-	
+	// GETTER AND SETTER
+
 	public String getNombre() {
 		return nombre;
 	}
@@ -44,7 +43,7 @@ public class Autor {
 
 	public static void add(Autor a) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
